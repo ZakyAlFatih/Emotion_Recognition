@@ -3,4 +3,4 @@ librosa==0.11.0
 numpy
 scikit-learn
 soundfile
-tensorflow==2.13.0
+tensorflow==2.16.0  # Menggunakan versi TensorFlow yang lebih kompatibel dengan Python 3.12
