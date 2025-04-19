@@ -1,5 +1,5 @@
 streamlit
-librosa==0.10.1
+librosa==0.11.0
 numpy
 scikit-learn
 soundfile
